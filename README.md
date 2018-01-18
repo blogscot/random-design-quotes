@@ -1,6 +1,6 @@
 # Random Quote Generator
 
-This small web app responsively displays random Design quotes.
+This small web app responsively displays [random Design quotes](https://blogscot.github.io/random-design-quotes/).
 
 ## Tips and Tricks
 
